@@ -50,3 +50,23 @@ removes or deletes a file
 removes or deletes a file
 
 
+### git add .
+
+add everything in the directory in the watchlist
+
+
+### git commit -m " "
+
+Snapshot in time of the changes you made so far. This commit saves  this snapshot on the local computer. 
+
+
+### git push
+
+Sends changes to hosting service
+
+### git pull
+
+downloads freshest version of repo
+
+
+
