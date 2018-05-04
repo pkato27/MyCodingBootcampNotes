@@ -49,6 +49,8 @@ removes or deletes a file
 
 removes or deletes a file
 
+#git commands
+
 
 ### git add .
 
@@ -68,5 +70,30 @@ Sends changes to hosting service
 
 downloads freshest version of repo
 
+### GIT Commands
+git clone  - copies an entire repo (to begin)
+git add     - adds a file for inclusion in GIT
+git commit  - notes a change to the local repo
+git push    - sends changes to hosting service.
+git pull    - downloads the freshest version
+### GIT Directory
+    /Documents/coding_class/myCodingBootCampNotes
+### GIT Repository
+    git clone https://github.com/JasonErdahl/myCodingBootcampNotes.git
+### GIT COMMANDS
+1. git add .
+2. git commit -m "message about what committing"
+3. git push
+
+## cool Terminal Shortcuts:
+
+Up key: goes to the previous command
+Tab key (while typing a file/folder name): Fills out the filename if its there and unique
 
 
+### Special directorys:
+
+~/ - User directory (/Users/Phillydogkato)
+../ - One directory up
+./ - current directory
+/ - root directory
